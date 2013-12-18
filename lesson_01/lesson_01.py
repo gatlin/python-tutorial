@@ -132,4 +132,5 @@ world. However, the more you can quarantine that, the better.
 if __name__=="__main__":
     assert (abs(sqrt(4.0) - 2.00001092578) - 2.0) < 0.0001
     print "Beautiful! You've finished."
+    print "Now, type the following: git commit -a -m 'finished lesson 1'"
 
